@@ -1,6 +1,6 @@
-# Triangle DevOps – Guidelines for Speakers
+# Triangle.rb – Guidelines for Speakers
 
-Thank you for your interest in presenting to Triangle DevOps. We very much
+Thank you for your interest in presenting to Triangle.rb. We very much
 appreciate it.
 
 We have a few guidelines we ask you to understand about presenting to our group.
@@ -36,10 +36,6 @@ If you have questions about your talk, whether it's concepts or specific
 materials and its fitness for presentation to our group, we will be happy to
 discuss that with you.
 
-Technically speaking, we can generally accommodate VGA and Mini DisplayPort
-connections at the venues we use. If you need a different video connection,
-please let us know so we can coordinate and make arrangements ahead of time.
-
 [conduct]: code-of-conduct.md
 
 ## Before your talk
@@ -74,6 +70,6 @@ At your discretion, we would like to share the slide deck and any other
 materials from the presentation with our members. We'll link to those materials
 directly on the meeting page for your presentation. Generally, those are sent to
 us as a link over Twitter. We will provide attribution when we share your slides
-with our members through the @TriangleDevOps Twitter account.
+with our members through the @TriangleRb Twitter account.
 
 Thank you so much for presenting to us!

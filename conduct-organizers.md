@@ -1,4 +1,4 @@
-# Triangle DevOps Code of Conduct - For Organizers
+# Triangle.rb Code of Conduct - For Organizers
 
 This version is intended for internal use by the group organizers.
 
@@ -6,7 +6,8 @@ This version is intended for internal use by the group organizers.
 
 Any organizers can issue a verbal warning to a participant that
 their behavior violates the group's anti-harassment policy. Warnings should
-be reported to Chris Short or Chris Bailey as soon as practical. The report should include:
+be reported to [the organizer's team](mailto:trianglerb-organizers@googlegroups.com)
+as soon as practical. The report should include:
 
 * Identifying information of the participant
 * The time you issued the warning
