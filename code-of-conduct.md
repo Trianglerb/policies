@@ -1,6 +1,6 @@
-# Triangle DevOps Code of Conduct
+# Triangle.rb Code of Conduct
 
-Triangle DevOps is dedicated to providing a harassment-free community experience
+Triangle.rb  is dedicated to providing a harassment-free community experience
 for everyone, regardless of gender, gender identity and expression, sexual
 orientation, disability, physical appearance, body size, race, age or religion.
 We do not tolerate harassment of community participants in any form.
@@ -53,7 +53,7 @@ make them all better.
 
 * Talking to the on-site organizers or organizers, who will introduce themselves
   at the beginning any event
-* Emailing the organizing team (triangledevops at gmail.com)
+* [Emailing the organizing team](mailto:trianglerb-organizers@googlegroups.com)
 
 When taking a report in person, our staff will work to ensure you are safe and
 cannot be overheard. You won't be asked to confront anyone and we won't tell
@@ -67,8 +67,6 @@ to know basis.
 Our team will be happy to help you contact local law enforcement, local support
 services, provide escorts, or otherwise assist you to feel safe for the duration
 of the event. We value your attendance.
-
-## Credits
 
 This anti-harassment policy is based on the [example policy from the Geek
 Feminism wiki][more], created by the Ada Initiative and other volunteers.
